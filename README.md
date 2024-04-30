@@ -1,5 +1,5 @@
-# Azwile19
-Doorbell Notification System#
+# Doorbell Notification System
+
 The Doorbell Notification System is a software solution designed to provide notifications
 when a physical button, acting as a doorbell, is pressed. This system operates on a
 Raspberry Pi platform, utilizing Python scripts to detect button presses and send
