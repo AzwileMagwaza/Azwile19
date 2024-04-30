@@ -32,14 +32,19 @@ in real-time.
 3. Upon receiving a notification, the client provides visual or audible feedback to
 alert the user that the doorbell has been rung.
 Usage:
+
 ● To deploy the Doorbell Notification System, execute the server script on the
 Raspberry Pi.
+
 ● Clients can interact with the system by executing the client script on their
 respective devices, connecting to the server to receive doorbell notifications.
+
 ● Users can press the button sensor installed as the doorbell to trigger real-time
 notifications on connected client devices.
 Safety Considerations:
+
 ● Ensure proper installation and secure mounting of the button sensor to prevent
 damage or malfunction.
+
 ● You should exercise caution when relying on the system for doorbell notifications,
 ensuring they are always aware of visitors at the door.*/
